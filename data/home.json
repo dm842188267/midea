@@ -1,0 +1,303 @@
+{
+	"data":[
+		{
+			"title":"空调",
+			"pic":"./img/4a221c627a24.webp",
+			"link":"air"
+		},
+		{
+			"title":"冰箱",
+			"pic":"./img/5f6952aa87ef.webp",
+			"link":"fridges"
+		},
+		{
+			"title":"洗衣机",
+			"pic":"./img/14cf4a3cd3c9.webp",
+			"link":"wash"
+		},
+		{
+			"title":"厨房小电器",
+			"pic":"./img/8075081e63ff.webp",
+			"link":"smallapp"
+		},
+		{
+			"title":"厨房大电器",
+			"pic":"./img/114f67457d69.webp",
+			"link":"bigapp"
+		},
+		{
+			"title":"生活家电",
+			"pic":"./img/555b1e312548.webp",
+			"link":"houseapp"
+		},
+		{
+			"title":"热水器/净水机",
+			"pic":"./img/af9c4fc47b57.webp",
+			"link":"hot"
+		},
+		{
+			"title":"配件及周边",
+			"pic":"./img/c06110182fb8.webp",
+			"link":"acc"
+		}
+	],
+	"data1":["./img/758e74151c39.webp","./img/db9c580038e8.webp","./img/2edbda4d2aab.webp","./img/cc8fcbca84de.webp","./img/a9b43f10374d.webp"],
+	"data2":["./img/4ea4949eacd7.webp","./img/5c91b5bd8a7d5.webp"],
+	"protrudes":[
+		{
+			"pic":"./img/b4ad401eb9e8.webp",
+			"title":"变频爆款挂机  性价比之王",
+			"name":"家用空调套机KFR-26GW/WDAA3@",
+			"price":"￥ 2199.00",
+			"collect":"1222",
+			"comment":"1223",
+			"browse":"49万",
+			"status":"家装节",
+			"time":"03月27日00时开枪",
+			"flag":"1"
+		},
+		{
+			"pic":"./img/73822d5dcc1c.webp",
+			"title":"洗烘一体机 10KG变频 静音节能 快速烘干",
+			"name":"洗衣机MD100V71WDX",
+			"price":"￥ 3199.00",
+			"collect":"1251",
+			"comment":"164",
+			"browse":"23万",
+			"status":"限时优惠",
+			"time":"03月27日00时开枪",
+			"flag":"1"
+		},
+		{
+			"pic":"./img/797954963802.webp",
+			"title":"电压力锅 双圆灶釜内胆 24小时预约",
+			"name":"电压力锅MY-YL50Easy203",
+			"price":"￥ 299.00",
+			"collect":"372",
+			"comment":"236",
+			"browse":"10万",
+			"status":"本周特惠",
+			"time":"03月27日00时开枪",
+			"flag":"1"
+		},
+		{
+			"pic":"./img/0913182e0d53.webp",
+			"title":"80L电热水器 专利出水断电 一级能效",
+			"name":"电热水器F8030-K5(HE)",
+			"price":"￥ 1899.00",
+			"collect":"373",
+			"comment":"149",
+			"browse":"96542",
+			"status":"家装节",
+			"time":"03月27日00时开枪",
+			"flag":"1"
+		},
+		{
+			"pic":"./img/c954ea6e6319.webp",
+			"title":"花生净水机 专利双芯 RO即滤即饮",
+			"name":"净水机MRO1791D-400G",
+			"price":"￥ 1898.00",
+			"collect":"413",
+			"comment":"179",
+			"browse":"12万",
+			"status":"家装节",
+			"time":"03月27日00时开枪",
+			"flag":"1"
+		},
+		{
+			"pic":"./img/755753c1fc90.webp",
+			"title":"破壁机 日本精钢8叶刀 低噪音",
+			"name":"搅拌机（料理机）MJ-PB12Power304",
+			"price":"￥ 1199.00",
+			"collect":"172",
+			"comment":"130",
+			"browse":"42214",
+			"status":"本周特惠",
+			"time":"03月27日00时开枪",
+			"flag":"1"
+		},
+		{
+			"pic":"./img/bb8b8f7244a9.webp",
+			"title":"风冷无霜 可以用手机遥控的智能冰箱",
+			"name":"冰箱BCD-535WKZM(E)",
+			"price":"￥ 2899.00",
+			"collect":"1310",
+			"comment":"385",
+			"browse":"41万",
+			"status":"限时优惠",
+			"time":"03月27日00时开枪",
+			"flag":"1"
+		},
+		{
+			"pic":"./img/54133cd82502.webp",
+			"title":"免安装洗碗机 29分钟超快洗 升级版碗篮",
+			"name":"洗碗机M3-T远山蓝",
+			"price":"￥ 2499.00",
+			"collect":"296",
+			"comment":"83",
+			"browse":"69",
+			"status":"",
+			"time":"",
+			"flag":"0"
+		},
+		{
+			"pic":"./img/37d461d032ab.webp",
+			"title":"厨房百搭 实力派米饭管家",
+			"name":"电饭煲（锅）MB-FB40Star701",
+			"price":"￥ 629.00",
+			"collect":"178",
+			"comment":"170",
+			"browse":"49042",
+			"status":"本周特惠",
+			"time":"03月27日00时开枪",
+			"flag":"1"
+		},
+		{
+			"pic":"./img/19be524b082d.webp",
+			"title":"即热恒温的燃气热水器 全面安防 智能变升",
+			"name":"燃气热水器JSQ30-Y8",
+			"price":"￥ 3599.00",
+			"collect":"29",
+			"comment":"7",
+			"browse":"26199",
+			"status":"家装节",
+			"time":"03月27日00时开枪",
+			"flag":"1"
+		},
+		{
+			"pic":"./img/f976f3131dc0.webp",
+			"title":"零基础烘焙 一键智能菜单电烤箱",
+			"name":"电烤箱T7-L325D二代",
+			"price":"￥ 359.00",
+			"collect":"403",
+			"comment":"93",
+			"browse":"53999",
+			"status":"限时特惠",
+			"time":"03月27日00时开枪",
+			"flag":"1"
+		}
+	],
+	"normal":[
+		{
+			"pic":"./img/fd608a20f2d7cd40A14639_430_430.webp",
+			"name":"【年轻派】破壁机 精钢8叶刀 高效快煮 12小时预约 MJ-PB10Power206",
+			"price":"￥ 799.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/48901040123f16cbA26069_430_430.webp",
+			"name":"电饭煲 3L精致容量 一体化面板 IH加热 精钢厚釜内胆 MB-WHS30C96",
+			"price":"￥ 389.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/44a40d7f69bbe772A12094_430_430.webp",
+			"name":"【热销款】电热水瓶 5L容量 3段出水 5段智能控温 断电出水 PF708c-50T",
+			"price":"￥ 369.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/2f8c2ab691ecaf05A1103_430_430.webp",
+			"name":"随行杯 小巧便携 移动充电 350ML容量 USB充放两用 MJ-LZ15Easy209",
+			"price":"￥ 149.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/0f8d3b819c3aac3dA26121_430_430.webp",
+			"name":"电磁炉 匀火系列 时尚面板 送渗氮炒锅 高档法式汤锅 C21-WT2112T",
+			"price":"￥ 259.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/5650e3f7c8dc071eA1192_430_430.webp",
+			"name":"电水壶 1.5L 一体化包边壶嘴 磨砂壶身质感 大角度开盖 WHJ1512d",
+			"price":"￥ 109.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/2dda002a560474d5A19592_430_430.webp",
+			"name":"【宿舍优选】小煮锅 多功能1.2L 双层防烫 双档功率 手机支架设计  MC-DY16Easy102",
+			"price":"￥ 189.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/091e983bed9342bfA8085_430_430.webp",
+			"name":"电压力锅 升级7档口感 一锅双胆 匀火速热氧化盘 MY-YL50Simple101",
+			"price":"￥ 289.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/792f1cdbcdea5019A9937_430_430.webp",
+			"name":"【大冷动力】535升冰箱 风冷无霜 手机遥控 对开门 BCD-535WKZM(E)",
+			"price":"￥ 2899.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/70dcdd33bd6f77caA23768_430_430.webp",
+			"name":"【新品推荐】美的（Midea） 三门冰箱 风冷无霜家用节能电冰箱 BCD-258WTM(E)阳光米",
+			"price":"￥ 2099.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/d1d5fd702bffda03A10117_430_430.webp",
+			"name":"空调大1匹定速挂机 智能冷暖壁挂式 KFR-26GW/WDAD3@",
+			"price":"￥ 1999.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/7f7900e6a71cdd5bA13708_430_430.webp",
+			"name":"空调大2P 智能除湿 静音 定频冷暖  KFR-51LW/DY-YA400(D3)",
+			"price":"￥ 4399.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/35ba9fe07398a30bA12565_430_430.webp",
+			"name":"滚筒洗衣机 8KG变频 一级能效  wifi控制 MG80V330WDX",
+			"price":"￥ 1699.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/4b53bed95b67a898A28467_430_430.webp",
+			"name":"【下排水】洗烘一体机 8KG变频 速风蒸汽烘干 APP智能操控  MD80-11WDX",
+			"price":"￥ 2599.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/001a0d314b0de148A14181_430_430.webp",
+			"name":"云朵电热水器 变频速热 宽720mm 语音互联 一级能效 F6030-V3(HE)",
+			"price":"￥ 1199.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/6ab260baeae19c60A28603_430_430.webp",
+			"name":"除螨仪 滚刷拍打 四重过滤 B5（VM1712",
+			"price":"￥ 499.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/4a33a000a3e52976A31393_430_430.webp",
+			"name":"吸尘器 低噪强力除尘无耗材 C3-L148B红色",
+			"price":"￥ 339.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/10f1bfaf34a5300bA10002_430_430.webp",
+			"name":"净饮机FT1 台式免安装 一根芯出水直饮 即热4段温控净废水分离 JR1959S-NF",
+			"price":"￥ 1999.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/11d7cd2a90f286a4A16617_430_430.webp",
+			"name":"除螨仪 家用小巧  深度除螨 UV紫外线杀菌  双重过滤H3-L033E",
+			"price":"￥ 279.00",
+			"status":"本周特惠"
+		},
+		{
+			"pic":"./img/1149d2e466f5c82aA18767_430_430.webp",
+			"name":"加湿器 2.8L 水箱香薰机 双喷头出雾 大雾量加湿 防燥SC-3D30B",
+			"price":"￥ 139.00",
+			"status":"本周特惠"
+		}
+	]
+	
+}

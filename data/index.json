@@ -1,0 +1,29 @@
+{
+	"data":[
+			{
+				"title":"首页",
+				"xhref":"#icon-shouye",
+				"address":"/home"
+			},
+			{
+				"title":"分类",
+				"xhref":"#icon-fenlei",
+				"address":"/classify"
+			},
+			{
+				"title":"活动",
+				"xhref":"#icon-huodong2",
+				"address":"/activity"
+			},
+			{
+				"title":"购物车",
+				"xhref":"#icon-gouwuche",
+				"address":"/shopcar"
+			},
+			{
+				"title":"我",
+				"xhref":"#icon-wode",
+				"address":"/my"
+			}
+		]
+}

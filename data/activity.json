@@ -1,0 +1,90 @@
+{
+	"Firstdata":[
+		{
+			"pic":"./img/8cf6ebeb1a8d.webp",
+			"style1":{
+				"height": " 4.5rem"
+			},
+			"style2":{
+				"height": "4.495rem"
+			},
+			"stylep":{
+				"width":"100%"
+			}
+		},
+		{
+			"pic":"./img/fb88d422e559.webp",
+			"style1":{
+				"height": "5.1875rem"
+			},
+			"style2":{
+				"height": "5.1825rem"
+			},
+			"stylep":{
+				"width":"100%"
+			}
+		},
+		{
+			"pic":"./img/b446e0622ecf.webp",
+			"style1":{
+				"height": "1.578125rem"
+			},
+			"style2":{
+				"height": "1.573125rem"
+			},
+			"stylep":{
+				"width":"100%"
+			}
+		},
+		{
+			"pic":"./img/b9207edb94a8.webp",
+			"style1":{
+				"padding": "0 0.3125rem",
+				"background-color": "#fde2d2"
+			},
+			"style2":{
+				
+			},
+			"stylep":{
+				"width":"9.375rem",
+				"margin-top": "10px"
+			}
+		},
+		{
+			"pic":"./img/bfac2427d6fa.webp",
+			"style1":{
+				"height": "3.6875rem"
+			},
+			"style2":{
+				"height": "3.6825rem"
+			},
+			"stylep":{
+				"width":"100%"
+			}
+		},
+		{
+			"pic":"./img/09072af2b384.webp",
+			"style1":{
+				"height": "8.0625rem"
+			},
+			"style2":{
+				"height": "8.0575rem"
+			},
+			"stylep":{
+				"width":"100%"
+			}
+		},
+		{
+			"pic":"./img/5ac80b158c0b.webp",
+			"style1":{
+				"height": "4.78125rem"
+			},
+			"style2":{
+				"height": "4.77625rem"
+			},
+			"stylep":{
+				"width":"100%"
+			}
+		}
+	]
+}
